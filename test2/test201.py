@@ -1,3 +1,3 @@
 print("소스코드 2")
-print("소스코드 2-1")
-print("소스코드 3-1")
+print("데이타베이스 연결")
+print("insert")
